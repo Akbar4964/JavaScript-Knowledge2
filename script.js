@@ -64,3 +64,31 @@
 // };
 // evenOrOdd(1);
 // evenOrOdd(2);
+
+// FUNCTION EXERCISES
+// function decExercise(num1, num2) {
+//   if (num1 >= num2) {
+//     console.log(`${num1} ikkidan katta`);
+//   } else {
+//     console.log(`${num1} soni ${num2} sonidan kichik`);
+//   }
+// }
+// decExercise(1, 2);
+
+// const expFunction = function (num1, num2) {
+//   if (num1 >= num2) {
+//     console.log(`${num1}`);
+//   } else {
+//     console.log(`${num1} soni ${num2} sonidan kichik`);
+//   }
+// };
+// expFunction(1, 2);
+
+// const arrFunction = (num1, num2) => {
+//   if (num1 >= num2) {
+//     console.log(`${num1}`);
+//   } else {
+//     console.log(`${num1} soni ${num2} sonidan kichik`);
+//   }
+// };
+// arrFunction(3, 2);
