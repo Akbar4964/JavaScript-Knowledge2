@@ -30,3 +30,37 @@
 
 // const myFunction = () => console.log("MyFunction...");
 // myFunction();
+
+// FUNCTION EXERCISES
+// DEC FUNCTION EX
+// evenOrOdd(1);
+// function evenOrOdd(number) {
+//   if (number % 2 === 0) {
+//     console.log(`${number} is even`);
+//   } else {
+//     console.log(`${number} is odd`);
+//   }
+// }
+// evenOrOdd(2);
+
+// EXP FUNCTION EX
+// const evenOrOdd = function (number) {
+//   if (number % 2 === 0) {
+//     console.log(`${number} is even`);
+//   } else {
+//     console.log(`${number} is odd`);
+//   }
+// };
+// evenOrOdd(1);
+// evenOrOdd(2);
+
+// ARR FUNCTION EX
+// const evenOrOdd = (number) => {
+//   if (number % 2 === 0) {
+//     console.log(`${number} is even`);
+//   } else {
+//     console.log(`${number} is odd`);
+//   }
+// };
+// evenOrOdd(1);
+// evenOrOdd(2);
