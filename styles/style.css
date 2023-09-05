@@ -6,5 +6,44 @@
 
 h1 {
   font-size: 70px;
-  margin-top: 30%;
+  margin-top: 20%;
+  animation-name: java;
+  animation-duration: 10s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes java {
+  0% {
+    color: red;
+  }
+  10% {
+    color: orange;
+  }
+  20% {
+    color: yellow;
+  }
+  30% {
+    color: yellowgreen;
+  }
+  40% {
+    color: green;
+  }
+  50% {
+    color: aqua;
+  }
+  60% {
+    color: blue;
+  }
+  70% {
+    color: blueviolet;
+  }
+  80% {
+    color: pink;
+  }
+  90% {
+    color: magenta;
+  }
+  100% {
+    color: red;
+  }
 }
