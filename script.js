@@ -104,11 +104,11 @@
 // console.log(result);
 
 // FIND() METHOD
-// const array1 = ["Html", "Css", "JavaScript", "Akbar", null, 1, 22.1, 10 + 6];
-// const array2 = (str) => {
-//   return str == 16;
-// };
-// const result = array1.find(array2);
+// const array1 = [2, 8, 5, 67, 1, 22, 16];
+// // const array2 = (str) => {
+// //   return str == 18;
+// // };
+// const result = array1.find((elem) => elem > 10);
 // console.log(result);
 
 // FILTER() METHOD
